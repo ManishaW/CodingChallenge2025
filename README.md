@@ -1,4 +1,4 @@
-# CodingChallenge2025
+# Coding Challenge 2025: Mystery in the Forgotten Library
 
 Deep within the abandoned library, a long-lost mystery awaits. Strange books line the dusty shelves, their pages filled with cryptic messages, secret codes, and hidden clues. As Detective Foxglove’s trusted sidekick, your task is to crack the library’s ancient puzzles and uncover the truth buried within its forgotten tomes.
 
