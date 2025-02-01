@@ -7,9 +7,13 @@ This is no ordinary challenge—each puzzle will test your coding skills, logic,
 🔍 Four Unique Challenges:
 
 The Shifting Script – Decrypt a classic Caesar cipher to reveal a lost secret.
+
 The Reader's Code – Solve a monoalphabetic substitution cipher, where the alphabet has been shuffled.
+
 The Vault of a Thousand Keys – Crack a brute-force password lock and access hidden knowledge.
+
 The Living Library – Books change colors every 2 seconds—your program must keep up and enter the correct sequence in real-time!
+
 💻Use a programming language of your choice and a suitable keyboard simulation library (such as pyautogui) to crack these codes! Share your finished puzzle or how far you got in the Wannibe World Discord Server! Also share and discuss code and solutions there, but please DO NOT share answers! For educational purposes and our entertainment, please avoid using online tools to find the answer. These problems are for you to test your own problem-solving skills!
 
 
